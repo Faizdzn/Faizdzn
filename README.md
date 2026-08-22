@@ -4,12 +4,6 @@
 I’m a Fullstack Developer, System Administrator, and 3D Artist passionate about building technology from both the software and infrastructure side. I work with web development, servers, virtualization, networking, and 3D asset creation. I enjoy solving technical problems, learning new technologies, and turning ideas into practical digital solutions while continuously growing across different areas of technology.
 
 ## Skills
-
-
-
-
-
-
 ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
@@ -45,5 +39,5 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Additional Links
-🔗 [My Portfolio](https://adhi.ski)
+🔗 [My Portfolio](https://adhi.ski) \
 🔗 [LinkedIn](https://adhi.ski/linkedin)
