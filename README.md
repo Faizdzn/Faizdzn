@@ -40,4 +40,4 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 
 ## Additional Links
 🔗 [My Portfolio](https://adhi.ski) \
-🔗 [LinkedIn](https://adhi.ski/linkedin)
+🔗 [My LinkedIn](https://adhi.ski/linkedin)
