@@ -39,5 +39,4 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Additional Links
-🔗 [My Portfolio](https://adhi.ski) \
-🔗 [My LinkedIn](https://adhi.ski/linkedin)
+🔗 [My Portfolio](https://adhi.ski) | 🔗 [My LinkedIn](https://adhi.ski/linkedin)
