@@ -46,6 +46,11 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Additional Links
