@@ -51,7 +51,11 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                                 4 hrs 1 min           ██████████████████████▓░░   90.64 %
+XML                                8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Markdown                           7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+JavaScript                         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Microsoft Visual Studio Solution   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
