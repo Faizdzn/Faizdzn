@@ -56,4 +56,6 @@ No activity tracked
 
 
 ## Additional Links
-🔗 [My Portfolio](https://adhi.ski) | 🔗 [My LinkedIn](https://adhi.ski/linkedin)
+📧 [Email Me](mailto:faiz@adhi.ski) |
+🔗 [My Portfolio](https://adhi.ski) |
+🔗 [My LinkedIn](https://adhi.ski/linkedin)
