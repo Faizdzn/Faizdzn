@@ -57,7 +57,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/a866b430-9e4c-41d4-9663-4b61c07ad8cd.svg)](https://wakatime.com/@a866b430-9e4c-41d4-9663-4b61c07ad8cd)
 
-
 ## Additional Links
 📧 [Email Me](mailto:faiz@adhi.ski) |
 🔗 [My Portfolio](https://adhi.ski) |
