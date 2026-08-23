@@ -45,5 +45,8 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Additional Links
 🔗 [My Portfolio](https://adhi.ski) | 🔗 [My LinkedIn](https://adhi.ski/linkedin)
