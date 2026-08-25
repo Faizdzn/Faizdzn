@@ -51,19 +51,20 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 24 August 2026
+From: 21 August 2026 - To: 25 August 2026
 
-Total Time: 7 hrs 28 mins
+Total Time: 13 hrs 3 mins
 
-C#                                 7 hrs 3 mins          ███████████████████████▓░   94.44 %
-XML                                8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Markdown                           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JavaScript                         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Microsoft Visual Studio Solution   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Bash                               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Git Config                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON                               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-INI                                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#                                 12 hrs 12 mins        ███████████████████████▒░   93.59 %
+JavaScript                         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+HTML                               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+XML                                9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Markdown                           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Microsoft Visual Studio Solution   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Bash                               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Git Config                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON                               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
