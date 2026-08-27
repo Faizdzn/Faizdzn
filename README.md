@@ -51,20 +51,20 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 25 August 2026
+From: 21 August 2026 - To: 26 August 2026
 
-Total Time: 13 hrs 3 mins
+Total Time: 18 hrs 42 mins
 
-C#                                 12 hrs 12 mins        ███████████████████████▒░   93.59 %
-JavaScript                         19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-HTML                               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-XML                                9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown                           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Microsoft Visual Studio Solution   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Bash                               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Git Config                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-JSON                               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-TypeScript                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#                                 16 hrs 22 mins        ██████████████████████░░░   87.54 %
+JavaScript                         45 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Markdown                           42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTML                               25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+XML                                12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript                         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Microsoft Visual Studio Solution   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Bash                               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Git Config                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JSON                               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
