@@ -53,18 +53,18 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 21 August 2026 - To: 29 August 2026
 
-Total Time: 19 hrs 37 mins
+Total Time: 20 hrs 19 mins
 
-C#                                 16 hrs 25 mins        █████████████████████░░░░   83.70 %
-HTML                               53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JavaScript                         53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown                           42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-XML                                24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-TypeScript                         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-CSS                                2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Bash                               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C#                                 16 hrs 25 mins        ████████████████████▒░░░░   80.86 %
+HTML                               53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JavaScript                         53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+TypeScript                         50 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Markdown                           42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+XML                                24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+CSS                                2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Bash                               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Microsoft Visual Studio Solution   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Git Config                         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
