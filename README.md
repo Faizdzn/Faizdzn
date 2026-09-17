@@ -53,20 +53,20 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 15 September 2026
+From: 21 August 2026 - To: 16 September 2026
 
-Total Time: 50 hrs 29 mins
+Total Time: 51 hrs 16 mins
 
-Lua                                17 hrs 27 mins        ████████▓░░░░░░░░░░░░░░░░   34.57 %
-C#                                 16 hrs 48 mins        ████████▒░░░░░░░░░░░░░░░░   33.29 %
-TypeScript                         5 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Markdown                           2 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-YAML                               1 hr 35 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-JSON                               1 hr 19 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-TOML                               1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-JavaScript                         1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-HTML                               53 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Text                               35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Lua                                17 hrs 27 mins        ████████▓░░░░░░░░░░░░░░░░   34.04 %
+C#                                 16 hrs 48 mins        ████████▒░░░░░░░░░░░░░░░░   32.78 %
+TypeScript                         5 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Markdown                           2 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+YAML                               1 hr 35 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JSON                               1 hr 34 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JavaScript                         1 hr 11 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TOML                               1 hr 8 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+HTML                               53 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Text                               35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
