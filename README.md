@@ -53,14 +53,14 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 September 2026
+From: 21 August 2026 - To: 29 September 2026
 
-Total Time: 59 hrs 45 mins
+Total Time: 59 hrs 50 mins
 
-Lua                                17 hrs 27 mins        ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-C#                                 16 hrs 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 %
-TypeScript                         7 hrs 55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Python                             4 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Lua                                17 hrs 27 mins        ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+C#                                 16 hrs 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 %
+TypeScript                         7 hrs 55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Python                             4 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 Markdown                           2 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 YAML                               1 hr 50 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 JSON                               1 hr 35 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
