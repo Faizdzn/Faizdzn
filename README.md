@@ -53,20 +53,20 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 05 October 2026
+From: 21 August 2026 - To: 06 October 2026
 
-Total Time: 80 hrs 32 mins
+Total Time: 88 hrs 23 mins
 
-Lua                                17 hrs 27 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-C#                                 16 hrs 48 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-Vue                                12 hrs 18 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Python                             12 hrs 1 min          ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-TypeScript                         9 hrs 8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Markdown                           2 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-YAML                               1 hr 54 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-JSON                               1 hr 35 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JavaScript                         1 hr 28 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-TOML                               1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Vue                                19 hrs 59 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+Lua                                17 hrs 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+C#                                 16 hrs 48 mins        ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Python                             12 hrs 6 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+TypeScript                         9 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Markdown                           2 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+YAML                               1 hr 54 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JSON                               1 hr 35 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JavaScript                         1 hr 28 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+TOML                               1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
