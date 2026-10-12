@@ -53,20 +53,20 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 10 October 2026
+From: 21 August 2026 - To: 11 October 2026
 
-Total Time: 120 hrs 33 mins
+Total Time: 132 hrs 31 mins
 
-Python                             40 hrs 8 mins         ████████▒░░░░░░░░░░░░░░░░   33.29 %
-Vue                                21 hrs 49 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Lua                                17 hrs 27 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-C#                                 16 hrs 48 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-TypeScript                         9 hrs 52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-YAML                               2 hrs 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Markdown                           2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-JSON                               1 hr 36 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JavaScript                         1 hr 28 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Bash                               1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Python                             41 hrs 40 mins        ████████░░░░░░░░░░░░░░░░░   31.45 %
+Vue                                28 hrs 41 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+Lua                                17 hrs 27 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+C#                                 16 hrs 48 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+TypeScript                         13 hrs 1 min          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+YAML                               2 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Markdown                           2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+JSON                               1 hr 37 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JavaScript                         1 hr 28 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Bash                               1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
