@@ -53,20 +53,20 @@ I’m a Fullstack Developer, System Administrator, and 3D Artist passionate abou
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 25 October 2026
+From: 21 August 2026 - To: 26 October 2026
 
-Total Time: 149 hrs 10 mins
+Total Time: 149 hrs 58 mins
 
-Python                             49 hrs 4 mins         ████████▒░░░░░░░░░░░░░░░░   32.90 %
-Vue                                36 hrs 57 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-Lua                                17 hrs 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-C#                                 16 hrs 48 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-TypeScript                         13 hrs 24 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-YAML                               2 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Markdown                           2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-JSON                               1 hr 37 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python                             49 hrs 43 mins        ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Vue                                36 hrs 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+Lua                                17 hrs 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+C#                                 16 hrs 48 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+TypeScript                         13 hrs 24 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+YAML                               2 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Markdown                           2 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON                               1 hr 37 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 JavaScript                         1 hr 28 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Bash                               1 hr 12 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash                               1 hr 14 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
